@@ -1,3 +1,9 @@
+html, body{
+    width: 100%;
+    height: auto;
+}
+
+
 @media screen and (max-width: SMALL) {
     .titlePlusLogo img{
         display: none;
