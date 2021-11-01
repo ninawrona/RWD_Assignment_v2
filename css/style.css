@@ -1,0 +1,19 @@
+@media screen and (max-width: SMALL) {
+    .titlePlusLogo img{
+        display: none;
+    }
+}
+
+@media screen and (min-width: SMALL) {
+    .barPlusLogo img{
+        display: none;
+    }
+}
+
+.titlePlusLogo img{
+    width: 70%;
+}
+
+.titlePlusLogo div{
+    position: relative;
+}
