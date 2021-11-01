@@ -23,3 +23,14 @@ html, body{
 .titlePlusLogo div{
     position: relative;
 }
+
+/* Styling for the campus section of the front page */
+div#campus {
+    display: flex;
+    justify-content: center;
+}
+
+h2#hall_sub {
+    display: flex;
+    justify-content: center;
+}
