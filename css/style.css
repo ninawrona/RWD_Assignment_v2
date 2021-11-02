@@ -13,6 +13,9 @@ html, body{
     margin-bottom: 15px;
 }
 
+.nav-item {
+    font-size: 3vw;
+}
 /* Styling for the campus section of the front page */
 div#campus {
     display: flex;
