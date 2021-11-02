@@ -16,12 +16,8 @@ html, body{
     }
 }
 
-.titlePlusLogo img{
-    width: 70%;
-}
-
-.titlePlusLogo div{
-    position: relative;
+.barPlusLogo{
+    margin-bottom: 15px;
 }
 
 /* Styling for the campus section of the front page */
