@@ -3,20 +3,13 @@ html, body{
     height: auto;
 }
 
-
-@media screen and (max-width: SMALL) {
-    .titlePlusLogo img{
-        display: none;
-    }
+.gif img{
+    width: 100%;
+    height: auto;
+    margin: 5px;
 }
 
-@media screen and (min-width: SMALL) {
-    .barPlusLogo img{
-        display: none;
-    }
-}
-
-.barPlusLogo{
+.navigationBar{
     margin-bottom: 15px;
 }
 
