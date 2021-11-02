@@ -17,6 +17,12 @@ html, body{
 div#campus {
     display: flex;
     justify-content: center;
+    margin-top: 20px;
+    margin: 15px;
+}
+
+div#campus img {
+    max-width: 100%;
 }
 
 h2#hall_sub {
@@ -24,9 +30,23 @@ h2#hall_sub {
     justify-content: center;
 }
 
+/* Center the carousel */
 .carousel-inner img {
     margin: auto;
+    max-width: 100%;
   }
+
+  /* Vertically align the title within the grid */
+.pageTitle {
+    display: flex;
+    align-items: center;
+}
+
+/* Stop title from clipping off the left side */
+#frontTitle {
+    position: relative;
+    left: 15px;
+}
 
 /* SCHEDULE BEGINNING */
 
