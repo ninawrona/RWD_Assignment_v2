@@ -24,6 +24,10 @@ h2#hall_sub {
     justify-content: center;
 }
 
+.carousel-inner img {
+    margin: auto;
+  }
+
 /* SCHEDULE BEGINNING */
 
 
