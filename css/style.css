@@ -16,12 +16,6 @@ html, body{
 .nav-item {
     font-size: 3vw;
 }
-
-@media screen and (min-width:900px){
-    .nav-item {
-        font-size: 1.7em;
-    }
-}
 /* Styling for the campus section of the front page */
 div#campus {
     display: flex;
