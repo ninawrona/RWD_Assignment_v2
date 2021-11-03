@@ -56,3 +56,7 @@ h2#hall_sub {
 
 
 /* SCHEDULE END */
+#footer1 img {
+    position: relative;
+    max-height: 50px;
+}
