@@ -13,8 +13,16 @@ html, body{
     margin-bottom: 15px;
 }
 
+/* Scale nav bar to viewport */
 .nav-item {
     font-size: 3vw;
+}
+
+/* Stop scaling nav bar */
+@media screen and (min-width: 950px){
+    .nav-item {
+        font-size: 1.8em;
+    }
 }
 /* Styling for the campus section of the front page */
 div#campus {
