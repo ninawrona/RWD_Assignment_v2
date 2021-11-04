@@ -73,3 +73,8 @@ h2#hall_sub {
 {
     text-align: justify;
 }
+
+.bg-nav
+{
+    background-color: rgb(185, 182, 182);
+}
