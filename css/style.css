@@ -68,3 +68,8 @@ h2#hall_sub {
     position: relative;
     max-height: 50px;
 }
+
+.text-justify
+{
+    text-align: justify;
+}
