@@ -18,6 +18,11 @@ html, body{
     font-size: 3vw;
 }
 
+.carousel-inner img{
+    width: 250px;
+    height: 350px;
+}
+
 /* Stop scaling nav bar */
 @media screen and (min-width: 950px){
     .nav-item {
