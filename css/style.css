@@ -93,3 +93,15 @@ h2#hall_sub {
     background-color: rgb(185, 182, 182);
 }
 
+.text-font
+{
+    font-size: 120%;
+    text-shadow: 2px 2px 2px whitesmoke;
+}
+
+.a-color
+{
+    color: rgb(59, 7, 7);
+    text-decoration: none;
+}
+
