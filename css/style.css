@@ -2,6 +2,9 @@ html, body{
     width: 100%;
     height: auto;
     background-image: linear-gradient(  grey, rgb(194, 92, 92));
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
 }
 
 .gif img{
@@ -35,11 +38,21 @@ div#campus {
     display: flex;
     justify-content: center;
     margin-top: 20px;
-    margin: 15px;
+    margin-bottom: 20px;
 }
 
 div#campus img {
     max-width: 100%;
+}
+
+li.active{
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000,
+    0 0 10px white,
+    0 0 10px rgb(172, 162, 162);
+    color: white;
 }
 
 h2#hall_sub {
